@@ -1,17 +1,17 @@
 # Hey, I'm Yassin 👋
 
-I'm a **web builder working my way deeper into software development**.
+I'm building my way into **software development**, mostly around web applications, SaaS, and backend systems.
 
-I started with websites, ecommerce, and automations, and eventually got hooked on building full applications. These days I'm mainly focused on **backend development, SaaS, databases, and learning how the pieces actually fit together.**
+I started with websites, ecommerce, and automations. These days I'm spending most of my time learning how applications actually work behind the UI — APIs, databases, authentication, architecture, and deployment.
 
 ### A little about me
 
 * 🔨 I like building things more than talking about building them
-* 🧠 Currently learning **backend development & software engineering fundamentals**
+* 🧠 Currently focused on **backend development & software engineering**
 * ⚡ Working mostly with **TypeScript, Next.js, PostgreSQL & Node.js**
-* 🐍 Also learning **Python**
+* 🐍 Learning Python along the way
 * 🤖 AI is part of my development workflow
-* 🚀 I enjoy taking an idea from zero to something people can actually use
+* 🚀 I like taking an idea from zero to something people can actually use
 * 📚 Always learning something new
 * 😅 Occasionally spend 3 hours fixing something that was broken because of one line
 
