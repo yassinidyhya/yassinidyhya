@@ -14,16 +14,16 @@ I build web apps using AI as my main tool. Started with websites and e-commerce,
 
 | Project | Highlights | Description |
 | :--- | :--- | :--- |
-| **taberat** | `PDF` • `Privacy-First` | Invoice generator. 13 templates, 170+ currencies, 18 languages. No account, no BS, just a PDF. |
-| **quebecstream** | `IPTV` • `SEO` | French-Canadian IPTV marketing site. Pricing, reseller program, 10-article blog, full SEO. Built it because a friend inspired me. Never launched the business. The site's clean though. |
-| **rijal travaux** | `Corporate` • `Live` | Website for a construction company in Laayoune. Built it randomly out of boredom. They didn't ask. It's live anyway. |
+| **[taberat](https://taberat.com)** | `PDF` • `Privacy-First` | Invoice generator. 13 templates, 170+ currencies, 18 languages. No account, no BS, just a PDF. |
+| **[quebecstream](https://quebecstream.com)** | `IPTV` • `SEO` | French-Canadian IPTV marketing site. Pricing, reseller program, 10-article blog, full SEO. Built it because a friend inspired me. Never launched the business. The site's clean though. |
+| **[rijal travaux](https://rijaltravaux.com)** | `Corporate` • `Live` | Website for a construction company in Laayoune. Built it randomly out of boredom. They didn't ask. It's live anyway. |
 
 ---
 
 ### 🔧 Cooking
 
-* **`quoteflow`** — AI-generated business quotes. Describe your service, get a professional quote ready to send.
-* **`pharmsaf`** — Pharmacy management system for a friend in Essaouira. Stock, distributions, delivery slips. On hold for now.
+* **[`quoteflow`](https://quoteflow.dev)** — AI-generated business quotes. Describe your service, get a professional quote ready to send.
+* **[`pharmsaf`](https://pharmsaf.idyhya.dev)** — Pharmacy management system for a friend in Essaouira. Stock, distributions, delivery slips. On hold for now.
 
 ---
 
